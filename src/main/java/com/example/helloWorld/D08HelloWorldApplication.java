@@ -9,6 +9,7 @@ public class D08HelloWorldApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(D08HelloWorldApplication.class, args);
 		System.out.println("Hello Java World!!");
+		System.out.println("Today is a great day for Java in Spring Boot");
 	}
 
 }
