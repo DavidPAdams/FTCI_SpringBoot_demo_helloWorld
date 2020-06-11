@@ -6,10 +6,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class D08HelloWorldApplication {
+public class DemoHelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(D08HelloWorldApplication.class, args);
+		SpringApplication.run(DemoHelloWorldApplication.class, args);
 		System.out.println("Hello Java World!!");
 		
 //		System.out.println("Today is a great day for Java in Spring Boot");
