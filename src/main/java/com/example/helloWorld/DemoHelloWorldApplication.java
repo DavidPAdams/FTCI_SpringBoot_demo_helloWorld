@@ -14,7 +14,7 @@ public class DemoHelloWorldApplication {
 		
 //		System.out.println("Today is a great day for Java in Spring Boot");
 
-//		String firstName = "Zack";
+//		String firstName = "David";
 //		System.out.printf("Hello %s!\n", firstName);
 //		System.out.printf("Goodbye %s", firstName);
 		
